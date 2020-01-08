@@ -1,4 +1,4 @@
-module github.com/newrelic/go-insights
+module github.com/cgilling/go-insights
 
 go 1.13
 
